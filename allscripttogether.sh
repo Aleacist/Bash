@@ -1,7 +1,5 @@
 #!/bin/bash
-#Comentario de relleno para tener el minimo de un comentario en el script
 script1(){
-	# No cae
         echo "Di un numero:"
 	read num
         fact=1
